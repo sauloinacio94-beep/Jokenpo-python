@@ -1,7 +1,7 @@
 # Jokenpo-python
 Meu primeiro jogo pedra, papel e tesoura em python.
 
-###Funcionalidades
+### Funcionalidades
 - O usuário escolhe entre pedra, papel ou tesoura.
 - O computador faz uma escolha aleatória.
 - O programa compara as jogadas e diz quem venceu.
